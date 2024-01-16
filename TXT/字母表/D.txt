@@ -103,7 +103,7 @@ devil [‘devl] n.魔鬼,恶魔
 devise [di’vaiz] vt.设计,发明
 devote [di’vəut] vt.将…奉献,致力于
 dew [dju:] n.露,露水
-diagram [‘daiəɡræm] n.图解,图表,简图
+diagram [‘daiəɡræm] n.图表,图解
 dial [‘daiəl] n.钟面;拨号盘vt.拨
 dialect [‘daiəlekt] n.方言,土语,地方话
 dialog [‘daiəlɔɡ] n.对话,对白
