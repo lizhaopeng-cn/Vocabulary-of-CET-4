@@ -68,12 +68,13 @@ density [‘densiti] n.密集,稠密;密度
 deny [di’nai] vt.否定;拒绝相信
 depart [di’pɑ:t] vi.离开,起程;出发
 department [di’pɑ:tmənt] n.部,司,局,处,系
-departure [di’pɑ:tʃə，dɪ’pɑːtʃə(r)] n.离开,出发,起程depend[di’pend]vi.依靠,依赖;相信
+departure [di’pɑ:tʃə，dɪ’pɑːtʃə(r)] n.离开,出发,起程
+depend[di’pend]vi.依靠,依赖;相信
 dependent [di’pendənt] a.依靠的,依赖的
 deposit [di’pɔzit] vt.使沉淀;存放
 depress [di’pres] vt.使沮丧;按下
 depth [depθ] n.深度;深厚;深处
-derive [di’raiv] vt.取得vi.起源
+derive [di’raiv] 派生vt.取得vi.起源
 descend [di’send] vi.下来,下降;下倾
 describe [dis’kraib] vt.形容;描写,描绘
 description [dis’kripʃn] n.描写,形容;种类
@@ -93,7 +94,8 @@ destruction [dis’trʌkʃən] n.破坏,毁灭,消灭
 detail [‘di:teil] n.细节;枝节;零件
 detect [di’tekt] vt.察觉,发觉;侦察
 detection [di’tekʃən] n.察觉,发觉;侦察
-determination [ditə:mi’neiʃən] n.决心;决定;确定determine[di’tə:min]vt.决定;查明;决心
+determination [ditə:mi’neiʃən] n.决心;决定;确定
+determine[di’tə:min]vt.决定;查明;决心
 develop [di’veləp] vt.发展;形成;开发
 development [di’veləpmənt] n.发展;开发;生长
 device [di’vais] n.器械,装置;设计
@@ -128,7 +130,8 @@ dip [dip] vt.浸,蘸vi.浸一浸
 direct [di’rekt] a.直接的;直率的
 direction [di’rekʃən] n.方向,方位;指导
 directly [di’rektli] ad.直接地;立即
-director [di’rektə，də’rektə(r)，daɪ-] n.指导者;理事;导演dirt[də:t]n.尘,土;污物,污垢
+director [di’rektə，də’rektə(r)，daɪ-] n.指导者;理事;导演
+dirt[də:t]n.尘,土;污物,污垢
 dirty [‘də:ti] a.脏的;下流的
 disable [dis’eibl] vt.使无能,使伤残
 disadvantage [disəd’vɑ:ntidʒ] n.不利,不利地位
