@@ -134,10 +134,10 @@ director [di’rektə，də’rektə(r)，daɪ-] n.指导者;董事;导演
 dirt[də:t]n.污垢,灰尘
 dirty [‘də:ti] a.脏的;下流的
 disable [dis’eibl] vt.禁止,使无效,使伤残
-disadvantage [disəd’vɑ:ntidʒ] n.不利,不利地位
-disagree [disə’ɡri:] vi.有分歧;不一致
-disappear [disə’piə] vi.不见,失踪;消失
-disappoint [disə’pɔint] vt.使失望,使受挫折
+disadvantage [disəd’vɑ:ntidʒ] n.缺点,坏处,不利因素
+disagree [disə’ɡri:] vi.不同意
+disappear [disə’piə] vi.消失
+disappoint [disə’pɔint] vt.使失望,辜负
 disaster [di’zɑ:stə] n.灾难,灾祸;天灾
 disk [disk] n.圆盘,唱片;磁盘
 discard [dis’kɑ:d] vt.丢弃,抛弃,遗弃
