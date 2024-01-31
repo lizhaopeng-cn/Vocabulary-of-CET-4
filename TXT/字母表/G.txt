@@ -7,7 +7,7 @@ garage /‘gæra:ʒ/ n.车库;加油站
 garden /‘ga:dn/ n.花园，菜园;公园
 gardener /‘ga:dnə/ n.园丁，花匠
 gas /gæs/ n.煤气;气体;汽油
-gaseous /‘geizjəs/ a.气体的，气态的
+gaseous /‘gæsiəs/ a.气体的，气态的
 gasoline /‘gæsəli:n/ n.(美)汽油
 gate /geit/ n.大门;篱笆门
 gather /‘gæðə/ vi.聚集;集合vt.收集
