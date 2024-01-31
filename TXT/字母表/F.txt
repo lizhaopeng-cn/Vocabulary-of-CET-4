@@ -116,12 +116,12 @@ flourish /‘flΛriʃ/ vi.繁荣，茂盛，兴旺
 flow /fləu/ vi.流动;飘垂;涨潮
 flower /‘flauə/ n.花，花卉;开花
 fluent /‘flu(:)ənt/ a.流利的，流畅的
-fluid /‘flu(:)id/ n.流体，液体
+fluid /‘flu(:)id/ n.流体，流体的
 fly /flai/ n.蝇，苍蝇vi.飞行
 focus /‘fəukəs/ vi.聚焦，注视n.焦点
 fog /fɔg/ n.雾;烟雾，尘雾
 fold /fəuld/ vt.折叠;合拢n.褶
-folk /fəulk/ n.人们，家属，亲属
+folk /fəulk/ n.人们，大伙儿；民间的
 follow /‘fɔləu/ vt.跟随;结果是
 following /‘fɔləuiŋ/ a.接着的;下列的
 fond /fɔnd/ a.喜爱的;溺爱的
@@ -143,7 +143,7 @@ forever /fə’revə/ ad.永远，总是，老是
 forge /fɔ:dʒ/n.熔炉,铁工厂vt.打制,锻造,伪造forget/fə’get/ vt.忘记，遗忘
 forgive /fə’giv/ vt.原谅，饶恕，宽恕
 fork /fɔ:k/ n.餐叉;叉;分叉
-form /fɔ:m/ n.形式;形状vt.形成
+form /fɔ:m/ n.形式;表格vt.形成
 formal /‘fɔ:məl/ a.正式的;礼仪上的
 formation /fɔ:’meiʃən/ n.形成;构成;形成物
 former /‘fɔ:mə/ a.在前的n.前者
