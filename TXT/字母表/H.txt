@@ -61,7 +61,7 @@ her /hə:,hə/ pron.(宾格)她;她的
 herd /hə:d/ n.兽群，牧群vt.放牧
 here /hiə/ ad.这里;向这里
 hero /‘hiərəu/ n.男主角;英雄;勇士
-herɔic /hi’rəuik/ a.英雄的;英勇的
+heroic /hə’rəuik/ a.英雄的;英勇的
 hers /hə:z/ pron.她的(所有物)
 herself /hə:’self/ pron.她自己;她亲自
 hesitate /‘heziteit/ vi.犹豫，踌躇;含糊
@@ -75,7 +75,7 @@ hillside /‘hil’said/ n.(小山)山腰，山坡
 him /him/ pron.(宾格)他
 himself /him’self/ pron.他自己;他亲自
 hint /hint/ n.暗示，示意;建议
-hire /‘haiə/ vt.租借n.租用，雇用
+hire /‘haiə/ vt.租借n.租用，雇用  
 his /his/ pron.他的，他的东西
 historical /his’tɔrikəl/ a.历史的，有关历史的
 history /‘histəri/ n.历史;个人经历
@@ -97,7 +97,7 @@ hopeful /‘həupful/ a.有希望的
 hopeless /‘həuplis/ a.没有希望的，绝望的
 horizon /hə’raizn/ n.地平线;眼界，见识
 horizontal /hɔri’zɔntl/ a.地平的;水平的
-horn /hɔ:n/ n.号角;警报器;角
+horn /hɔ:n/ n.喇叭;号角;警报器;角
 horror /‘hɔrə/ n.恐怖;战栗;憎恶
 horse /hɔ:s/ n.马;马科动物
 horsepower /‘hɔ:spauə/ n.马力
@@ -125,4 +125,4 @@ hurry /‘hΛri/ vi.赶紧vt.催促
 hurt /hə:t/ vt.使受伤;使痛心
 husband /‘hΛzbənd/ n.丈夫
 hut /hΛt/ n.小屋，棚屋
-hydrogen /‘haidridʒən/ n.氢
+hydrogen /‘haidrədʒən/ n.氢
