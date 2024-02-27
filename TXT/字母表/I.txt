@@ -16,7 +16,8 @@ illustrate /‘iləstreit/ vt.(用图等)说明
 illustration /iləs’treiʃən/ n.说明，图解;例证
 image /‘imidʒ/ n.像;形象;映象
 imaginary /i’mædʒinəri/ a.想象中的，假想的
-imagination /imædʒi’neiʃən/n.想象;想象力;空想imagine/i’mædʒin/ vt.想象，设想;料想
+imagination /imædʒi’neiʃən/n.想象;想象力;空想
+imagine/i’mædʒin/ vt.想象，设想;料想
 imitate /‘imiteit/ vt.模仿，仿效;仿制
 immediate /i’mi:djət/ a.立即的;直接的
 immense /i’mens/ a.巨大的;极好的
