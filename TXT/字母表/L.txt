@@ -43,7 +43,7 @@ leading /‘li:diŋ/ a.指导的;最主要的
 leaf /li:f/ n.叶，叶子
 league /li:g/ n.同盟，联盟;联合会
 leak /li:k/ vi.漏;泄露n.漏洞
-lean /li:n/ vi.倾斜，屈身;靠
+lean /li:n/ vi.倾斜;靠a.瘦的
 leap /li:p/ vi.跳，跃n.跳跃
 learn /lə:n/ vi.&vt.学，学习
 learned /‘lə:nid/ a.有学问的;学术上的
