@@ -128,7 +128,7 @@ look /luk/ vi.看，显得n.看
 loop /lu:p/ n.圈，环，环孔
 loose /lu:s/ a.松的;宽松的
 loosen /‘lu:sn/ vt.解开;使松驰
-lord /lɔ:d/ n.贵族;上帝，基督
+lord /lɔ:d/ n.主;上帝，基督
 lorry /‘lɔri/ n.运货汽车，卡车
 lose /lu:z/ vt.失去;迷失;输掉
 loss /lɔs/ n.遗失;损失;失败
@@ -144,7 +144,7 @@ loyalty /‘lɔiəlti/ n.忠诚，忠心
 luck /lΛk/ n.运气;好运，幸运
 lucky /‘lΛki/ a.幸运的;吉祥的
 luggage /‘lΛgidʒ/ n.行李;皮箱，皮包
-lump /lΛmp/ n.团，块;肿块
+lump /lΛmp/ n.块;肿块
 lunch /lΛntʃ/ n.午餐，(美)便餐
 lung /lΛŋ/ n.肺脏，肺
 luxury /‘lΛkʃəri/ n.奢侈，奢华;奢侈品
